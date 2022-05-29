@@ -19,3 +19,7 @@ MYSQL create schema and seed the database.
 https://watch.screencastify.com/v/xbZgcJjbOgm2NvDnA2HF
 
 API routes via Insomnia application.
+Categories: https://watch.screencastify.com/v/OzObCHn9e71vGe1dx58I
+Products: https://watch.screencastify.com/v/zGiUAt3HUYOtrXbygxct
+Tags: https://watch.screencastify.com/v/BWEjKxJ6mA0rC8dIFymi
+
