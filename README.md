@@ -15,11 +15,16 @@ This application requires Node.js, Express.js, and Sequelize and a Dotenv file f
 The app allows the user to view, add, edit, and delete categories, products, and tags.
 
 ## Walkthrough videos
-MYSQL create schema and seed the database.
-https://watch.screencastify.com/v/xbZgcJjbOgm2NvDnA2HF
 
+MYSQL create schema and seed the database.
+</br>
+https://watch.screencastify.com/v/xbZgcJjbOgm2NvDnA2HF
+</br>
 API routes via Insomnia application.
+</br>
 Categories: https://watch.screencastify.com/v/OzObCHn9e71vGe1dx58I
+</br>
 Products: https://watch.screencastify.com/v/zGiUAt3HUYOtrXbygxct
+</br>
 Tags: https://watch.screencastify.com/v/BWEjKxJ6mA0rC8dIFymi
 
